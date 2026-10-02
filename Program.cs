@@ -10,9 +10,7 @@ namespace liste_2026_aleksa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cao svete");
-            Console.WriteLine("Drugi red");
-            Console.WriteLine("Treci red");
+            Console.WriteLine("Aleksa Kosanovic");
             Console.ReadLine();
         }
     }
