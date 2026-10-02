@@ -11,6 +11,7 @@ namespace liste_2026_aleksa
         static void Main(string[] args)
         {
             Console.WriteLine("Cao svete");
+            Console.ReadLine();
         }
     }
 }
